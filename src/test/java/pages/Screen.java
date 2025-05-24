@@ -1,8 +1,7 @@
 package pages;
 
 import com.microsoft.playwright.Page;
-import com.sun.net.httpserver.Headers;
-import pages.getir.DialogContent;
+import pages.POM.DialogContent;
 
 public class Screen {
     private Page page;

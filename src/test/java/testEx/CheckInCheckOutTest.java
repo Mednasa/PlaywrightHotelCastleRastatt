@@ -14,7 +14,7 @@ import java.util.List;
 import static utilities.Hooks.page;
 
 @Listeners(utilities.Hooks.class)
-public class PomTest {
+public class CheckInCheckOutTest {
     ReusableMethods rm = new ReusableMethods();
     private Screen screen;
     LocalDate today = LocalDate.now();
