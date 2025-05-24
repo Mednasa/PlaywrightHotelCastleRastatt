@@ -1,4 +1,4 @@
-package testEx;
+package tests;
 
 import io.qameta.allure.*;
 import org.testng.Assert;
